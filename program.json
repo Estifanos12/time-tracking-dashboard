@@ -1,0 +1,51 @@
+{
+    "work": {
+        "dailyCurrent": "5hrs",
+        "dailyPrevious": "7hrs",
+        "weeklyCurrent": "32hrs",
+        "weeklyPrevious": "36hrs",
+        "monthlyCurrent": "103hrs",
+        "monthlyPrevious": "128hrs"
+    },
+    "exercise": {
+        "dailyCurrent": "1hr",
+        "dailyPrevious": "1hr",
+        "weeklyCurrent": "4hrs",
+        "weeklyPrevious": "5hrs",
+        "monthlyCurrent": "11hrs",
+        "monthlyPrevious": "18hrs"
+    },
+    "social": {
+        "dailyCurrent": "1hr",
+        "dailyPrevious": "3hrs",
+        "weeklyCurrent": "5hrs",
+        "weeklyPrevious": "10hrs",
+        "monthlyCurrent": "21hrs",
+        "monthlyPrevious": "23hrs"
+    },
+    "study": {
+        "dailyCurrent": "0hrs",
+        "dailyPrevious": "1hr",
+        "weeklyCurrent": "4hrs",
+        "weeklyPrevious": "7hrs",
+        "monthlyCurrent": "13hrs",
+        "monthlyPrevious": "19hrs"
+    },
+    "play": {
+        "dailyCurrent": "1hr",
+        "dailyPrevious": "2hrs",
+        "weeklyCurrent": "10hrs",
+        "weeklyPrevious": "8hrs",
+        "monthlyCurrent": "23hrs",
+        "monthlyPrevious": "29hrs"
+    },
+    "selfcare": {
+        "dailyCurrent": "0hrs",
+        "dailyPrevious": "1hr",
+        "weeklyCurrent": "2hrs",
+        "weeklyPrevious": "2hrs",
+        "monthlyCurrent": "7hrs",
+        "monthlyPrevious": "11hrs"
+    }
+    
+}
